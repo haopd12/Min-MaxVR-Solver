@@ -22,7 +22,7 @@ python visualization.py -n 10 -k 2 --algo TABU
 ```BibTeX
 @article{haopd12,
       title={MMVR using Greedy and Meta heuristic algorithms},
-      author={haopd12, yinxing, cuongnv, truongnx},
+      author={haopd12, yinnxing, cuongnv03, chuongslayer2011},
       year={2023}
 }
 ```
